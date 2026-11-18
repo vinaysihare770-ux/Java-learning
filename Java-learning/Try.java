@@ -1,7 +1,6 @@
-package Java-learning;
 
 public class Try {
-    public static void main(string args[]){
+    public static void main(String args[]){
         System.out.println("I am king");
     }
     
